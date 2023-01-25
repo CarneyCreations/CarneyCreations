@@ -1,7 +1,7 @@
 # Hey, I'm Joshua!
 
 ## < Bio >
-My mains passions in life have all been based around design and technology. Last year, whilst re-evaluating my future, I realised that programming encapsulated all of these passions.
+My main passions in life have all been based around design and technology. Last year, whilst re-evaluating my future, I realised that programming encapsulated all of these passions.
 
 Since discovering coding and I began learning the basics and am now only several weeks away from completing a Software Engineering bootcamp. The tech industry is where I want to be and I believe that by being a developer, I can build a career that utilises my strengths and enables me to reach my full potential within the role and progress.
 

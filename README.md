@@ -1,9 +1,10 @@
 # Hey, I'm Joshua!
 
 ## < Bio >
-My main passions in life have all been based around design and technology. Last year, whilst re-evaluating my future, I realised that programming encapsulated all of these passions.
+My main passions in life have all been based around design and technology. Graphic Design, photography, gaming, cryptocurrencies and blockchains. Last year, whilst re-evaluating my future, I discovered that programming encapsulated all of these passions and as a developer, I could create something to benefit each of these fields.
 
-Since discovering coding and I began learning the basics and am now only several weeks away from completing a Software Engineering bootcamp. The tech industry is where I want to be and I believe that by being a developer, I can build a career that utilises my strengths and enables me to reach my full potential within the role and progress.
+From there, I began learning Python and completed a Software Engineering bootcamp where I also learnt HTML and CSS for responsive design. I also gained experience using the Bootstrap and Django frameworks which I found really interesting. I felt that Bootstrap was a great way of learning the capabilities of HTML and CSS. My overall grade allowed me to break into the top 11 out of 287 students which is an achievement I am proud of. Since completing the course I am analysing which language to study next so I can broaden my horizons and continue my journey en-route to becoming a Junior Software Developer.
+The tech industry is where I want to be and I believe that by being a developer, I can build a career that utilises my strengths and enables me to reach my full potential within the sector and progress.
 
 ## < Current Project >
 Currently I am working on a [Capital Gains Tax calculator](https://github.com/CarneyCreations/capital_gains_calculator/blob/main/capital_gains_calculator.py) which complies with the HMRC guidelines. This is my first program with real-world application so I am very excited by this. The reward for me is that if I complete the program to a working standard within a week I can save myself £219 by not having to use a pre-existing calculator.
